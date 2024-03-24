@@ -1,0 +1,14 @@
+asgiref==3.7.2
+beautifulsoup4==4.12.3
+dj-database-url==0.5.0
+Django==2.2
+django-bootstrap4==0.0.7
+django-on-heroku==1.1.2
+gunicorn==21.2.0
+packaging==24.0
+psycopg2-binary==2.9.9
+pytz==2018.9
+soupsieve==2.5
+sqlparse==0.4.4
+typing_extensions==4.10.0
+whitenoise==4.1.2
